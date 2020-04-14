@@ -13,3 +13,9 @@ JPMorgan Chase
 Morgan Stanley
 Wells Fargo
 
+How to use?
+Note: To maintain the ennvironments, I highly recommend using conda.
+
+git clone git@github.com:visheshkl/fin-analysis.git
+cd fin-analysis
+jupyter notebook Financial Analysis.ipynb
