@@ -6,17 +6,17 @@ Python Libraries Used: Pandas,MatPlotlib,Seaborn
 
 
 Banks:
-* Bank of America,
-* CitiGroup,
-* Goldman Sachs,
-* JPMorgan Chase,
-* Morgan Stanley,
+* Bank of America
+* CitiGroup
+* Goldman Sachs
+* JPMorgan Chase
+* Morgan Stanley
 * Wells Fargo
 
 # How to use?
 
 
-Note: To maintain the ennvironments, I highly recommend using conda.
+Note: To maintain the ennvironments, I highly recommend using [conda][https://docs.conda.io/en/latest/].
 
 * git clone *git@github.com:visheshkl/fin-analysis.git*
 * cd *fin-analysis*
