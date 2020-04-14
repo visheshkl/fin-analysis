@@ -21,5 +21,4 @@ Note: To maintain the ennvironments, I highly recommend using [conda](https://do
 * jupyter notebook *Financial Analysis.ipynb*
 
 # Dataset Link:
-https://www.kaggle.com/rohan8594/finance-data-project
-
+https://www.kaggle.com/rohan8594/stock-data
