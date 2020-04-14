@@ -6,11 +6,11 @@ Analysis of a dataset of bank stocks from January 2006 to January 2016 including
 
 
 Banks:
-Bank of America
-CitiGroup
-Goldman Sachs
-JPMorgan Chase
-Morgan Stanley
+Bank of America,
+CitiGroup,
+Goldman Sachs,
+JPMorgan Chase,
+Morgan Stanley,
 Wells Fargo
 
 How to use?
