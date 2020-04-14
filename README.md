@@ -16,7 +16,7 @@ Banks:
 # How to use?
 
 
-Note: To maintain the ennvironments, I highly recommend using [conda][https://docs.conda.io/en/latest/].
+Note: To maintain the ennvironments, I highly recommend using [conda](https://docs.conda.io/en/latest/).
 
 * git clone *git@github.com:visheshkl/fin-analysis.git*
 * cd *fin-analysis*
